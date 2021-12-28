@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    margin: 50px 100px 50px 100px;  
+    background-color: #d1cccce5;
+    font-family: serif;
+}
+h1{
+    background-color: #5ab2fa;
+    padding: 2px 100px;
+}
+.cabeçario{
+    font-size: 28px;
+    color:#ffffff;
+    background-color: #000000;
+    text-align: center;
+    padding: 1px 10px; 
+    border: 100px;
+}

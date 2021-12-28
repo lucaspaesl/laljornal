@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    margin: 50px 100px 50px 100px;  
+    background-color: #d1cccce5;
+    font-family: serif;
+}
+h1{
+    background-color: #5ab2fa;
+    padding: 2px 100px;
+}
+.cabeçario{
+    font-size: 28px;
+    color:#ffffff;
+    background-color: #000000;
+    text-align: center;
+    padding: 1px 10px; 
+    border: 100px;
+}
+img{
+    border-radius: 10px;
+}
+#video{
+    border-radius: 10px;
+}
+p{
+    text-align: justify;
+    display: flex;
+    margin: 50px;
+    font-size: 20px;
+    color: #003049;
+
+}
+.alinharAoCentro{
+    display: flex;
+    justify-content: center;
+    padding-left: 80px;
+}

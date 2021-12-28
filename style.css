@@ -1,0 +1,82 @@
+body{
+    text-align: center;
+    margin: 5px 5px;  
+
+}
+h1{
+    background-color: #5ab2fa;
+    padding: 2px 100px;
+}
+.cabeçario{
+    font-size: 28px;
+    color:#ffffff;
+    background-color: #000000;
+    text-align: center;
+    padding: 1px 10px; 
+    border: 100px;
+}
+.container {
+    display: flex;
+    width: auto;
+}
+.nav{
+    background-color: #000000;
+    height: 70px;
+    align-items: center;
+    cursor: default;
+}
+#botaoNav{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    margin: 14px;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: rgb(24, 22, 102);
+    text-decoration: none;
+    color: rgb(141, 204, 206);
+    cursor: pointer;
+}
+.column{
+    flex: 33%;
+    margin: 20px 50px;
+    padding: 30px;
+    border-radius: 5px;
+    background-color: rgb(141, 204, 206);
+    text-align: center;
+}
+#header{
+    width: auto;
+    height: 648px;
+    align-items: center;
+    float: center;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main.cards{
+    display: flex;
+    padding: 32px;  
+    float: center; 
+}
+main.cards section.card .icon{
+    width: auto;
+    height: 64px;
+}
+main.cards section.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    text-align: center;
+}
+main.cards section.card img{
+    width: 100%;
+}
+
+.rodape{
+    background-color: rgb(107, 105, 105);
+    color: rgb(255, 255, 255);
+    height: 70px;
+}
